@@ -40,9 +40,9 @@ Then edit `clients.json` with your own categories and aliases. Example:
 
 ```json
 {
-  "VisitorReach": ["vr"],
-  "Outreach": ["sermoncentral", "churchleaders"],
-  "Carey Nieuwhof": ["carey", "nieuwhof", "cn"]
+  "Northwind Ventures": ["northwind", "nv"],
+  "Beacon Outreach": ["beacon"],
+  "Harper Nolan": ["harper", "hn"]
 }
 ```
 
