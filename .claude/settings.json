@@ -1,9 +1,1 @@
-{
-  "skills": [
-    {
-      "name": "time-audit",
-      "path": ".claude/skills/time-audit.md",
-      "description": "Cross-reference calendar billable hours with Jira and GitHub to produce per-ticket time allocations"
-    }
-  ]
-}
+{}
